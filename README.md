@@ -36,12 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiredJM01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredJM01&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiredJM01&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tiredJM01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiredJM01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiredJM01&theme=tokyonight" />
 </div>
 
 ---
