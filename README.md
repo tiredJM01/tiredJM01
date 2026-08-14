@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/03/d9/2b/03d92bf74006db371be52d2f08a236cf.jpg" alt="Welcome" width="400">
+</p>
+
 # 👋 Hi there!
 
 My name is **JM01**.
@@ -11,10 +15,3 @@ I vibecode because I don't know how to create most of the stuff I want to. Hopef
 - Python
 - Java
 - AutoHotkey
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiredJM01&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiredJM01&layout=compact" height="165" />
-</p>
