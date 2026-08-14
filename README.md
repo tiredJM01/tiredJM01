@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/githubassets/welcome.png" alt="Welcome" width="400">
+  <img src="/githubassets/welcome.png" alt="Welcome" width="100%">
 </p>
 
 # 👋 Hi there!
